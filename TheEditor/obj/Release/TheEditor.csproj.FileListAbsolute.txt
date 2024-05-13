@@ -1,0 +1,22 @@
+C:\Users\pedro\Desktop\Visual Studio 2022 Projects\TheEditor\TheEditor\bin\Release\TheEditor.exe.config
+C:\Users\pedro\Desktop\Visual Studio 2022 Projects\TheEditor\TheEditor\bin\Release\TheEditor.exe
+C:\Users\pedro\Desktop\Visual Studio 2022 Projects\TheEditor\TheEditor\bin\Release\TheEditor.pdb
+C:\Users\pedro\Desktop\Visual Studio 2022 Projects\TheEditor\TheEditor\obj\Release\TheEditor.csproj.AssemblyReference.cache
+C:\Users\pedro\Desktop\Visual Studio 2022 Projects\TheEditor\TheEditor\obj\Release\TheEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\Desktop\Visual Studio 2022 Projects\TheEditor\TheEditor\obj\Release\TheEditor.MainWindow.resources
+C:\Users\pedro\Desktop\Visual Studio 2022 Projects\TheEditor\TheEditor\obj\Release\TheEditor.Properties.Resources.resources
+C:\Users\pedro\Desktop\Visual Studio 2022 Projects\TheEditor\TheEditor\obj\Release\TheEditor.csproj.GenerateResource.cache
+C:\Users\pedro\Desktop\Visual Studio 2022 Projects\TheEditor\TheEditor\obj\Release\TheEditor.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\Visual Studio 2022 Projects\TheEditor\TheEditor\obj\Release\TheEditor.exe
+C:\Users\pedro\Desktop\Visual Studio 2022 Projects\TheEditor\TheEditor\obj\Release\TheEditor.pdb
+C:\Users\pedro\Desktop\TheEditor\TheEditor\bin\Release\TheEditor.exe.config
+C:\Users\pedro\Desktop\TheEditor\TheEditor\bin\Release\TheEditor.exe
+C:\Users\pedro\Desktop\TheEditor\TheEditor\bin\Release\TheEditor.pdb
+C:\Users\pedro\Desktop\TheEditor\TheEditor\obj\Release\TheEditor.csproj.AssemblyReference.cache
+C:\Users\pedro\Desktop\TheEditor\TheEditor\obj\Release\TheEditor.csproj.SuggestedBindingRedirects.cache
+C:\Users\pedro\Desktop\TheEditor\TheEditor\obj\Release\TheEditor.MainWindow.resources
+C:\Users\pedro\Desktop\TheEditor\TheEditor\obj\Release\TheEditor.Properties.Resources.resources
+C:\Users\pedro\Desktop\TheEditor\TheEditor\obj\Release\TheEditor.csproj.GenerateResource.cache
+C:\Users\pedro\Desktop\TheEditor\TheEditor\obj\Release\TheEditor.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Desktop\TheEditor\TheEditor\obj\Release\TheEditor.exe
+C:\Users\pedro\Desktop\TheEditor\TheEditor\obj\Release\TheEditor.pdb
